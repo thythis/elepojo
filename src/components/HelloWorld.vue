@@ -12,7 +12,7 @@
           <el-submenu index="1">
             <template slot="title">
               <i class="el-icon-message"></i>
-              <span>导航一thysama</span>
+              <span>导航一</span>
               <a href="#">thythy</a>
             </template>
             <el-menu-item-group>
