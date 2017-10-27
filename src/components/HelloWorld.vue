@@ -13,6 +13,7 @@
             <template slot="title">
               <i class="el-icon-message"></i>
               <span>导航一thysama</span>
+              <a href="#">thythy</a>
             </template>
             <el-menu-item-group>
               <template slot="title">分组一</template>
